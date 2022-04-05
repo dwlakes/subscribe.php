@@ -1,4 +1,9 @@
+
 <?php
+    // line 14 from the book used a depreciated function that doesn't work anymore
+    // line 11 from the book had an error setting up the regex
+
+
         // Function used to check email syntax
     function validate_email($email)
            {
